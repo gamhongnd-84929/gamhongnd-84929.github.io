@@ -14,7 +14,7 @@ body {
   font-size: 15px;
   line-height: 1.5;
 }
-img {
+section div section img {
     width: 300px;
 }
 a {
@@ -91,6 +91,15 @@ header {
 }
 .project-item h3 {
     margin-top: 0;
+}
+
+.skill{
+    display: inline;
+    
+}
+
+div img {
+    width:100px;
 }
 
 /* Work Experience
