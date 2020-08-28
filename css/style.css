@@ -95,8 +95,10 @@ header {
 
 .skill{
     display: inline;
-    
+    padding:10px;
 }
+
+
 
 div img {
     width:100px;
