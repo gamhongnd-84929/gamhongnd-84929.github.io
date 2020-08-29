@@ -24,15 +24,16 @@ a:hover{
     text-decoration: none;
 }
 h1 {
-    font-size: 100px;
-    line-height: 1;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5em;
 }
 h2 {
     font-size: 45px;
+    font-family: 'Caveat', cursive; 
 }
 
 h1, h2 {
-    font-family: 'Caveat', cursive;
+    
     font-weight: 400;
     margin: 0;
 }
