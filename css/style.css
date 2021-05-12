@@ -19,8 +19,8 @@ body {
 
 nav ul {
     position: absolute;
+    width: 100%;
     top: 0px;
-    width: 85%;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -34,7 +34,6 @@ nav ul li {
 
 nav ul li a {
     display: block;
-    width: 100px;
     height: 10px;
     color: white;
     text-align: center;
@@ -60,7 +59,7 @@ a:hover {
 }
 
 h1 {
-    font-family: 'Dancing Script', cursive;
+    font-family: Georgia, serif;
     font-size: 5em;
 }
 
@@ -81,7 +80,6 @@ h3 {
 
 .content-wrap {
     max-width: 800px;
-    ;
     width: 85%;
     margin: 0 auto;
     padding: 60px 0;
